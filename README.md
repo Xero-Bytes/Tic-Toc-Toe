@@ -31,5 +31,3 @@ This is a simple implementation of the classic Tic-Tac-Toe game in C++. The game
 Clone the repository and compile the code using your preferred C++ compiler. Run the executable to start playing.
 
 ---
-
-Feel free to modify this description to better fit your style or add any additional information you think is relevant!
